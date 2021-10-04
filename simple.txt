@@ -1,0 +1,8 @@
+Devops LifeCycle 
+Code 
+Build
+Test
+Release
+Deploy
+Operate
+Monitor
